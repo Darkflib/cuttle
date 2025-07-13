@@ -1,0 +1,4 @@
+/.mypy_cache
+/.venv
+/uv.lock
+/__pycache__
